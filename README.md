@@ -1,7 +1,3 @@
-
-
-Here is the complete **README.md** content for your Nebula Task Command project.
-
 ***
 
 # 🌌 Nebula Task Command
